@@ -1,0 +1,28 @@
+{
+  "name": "ilogger",
+  "version": "1.0.0",
+  "description": "Simple web logger for developers and testers if there is no console.",
+  "main": "ilogger.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "web",
+    "logger"
+  ],
+  "authors": [
+    "aecavac"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/aecavac/ilogger",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~3.0.0"
+  }
+}
