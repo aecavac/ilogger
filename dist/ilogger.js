@@ -83,7 +83,7 @@ var log = (function(){
 	//ref: https://github.com/Leaflet/Leaflet 
 	var iLoggerPath = (function () {
 		var scripts = document.getElementsByTagName('script'),
-		iloggerRe = /[\/^]iLogger[\-\._]?([\w\-\._]*)\.js\??/;
+		iloggerRe = /[\/^]ilogger[\-\._]?([\w\-\._]*)\.js\??/;
 		
 		var i, len, src, matches, path;
 		
