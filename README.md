@@ -1,17 +1,19 @@
 # ilogger
-Simple web logger for developers and testers if there is no console.
+###Helper web logger for developers and testers if there is no console.
 
-Helps tracking js logs via ui. It is useful if there is no browser console(PhoneGap, Cordova hybrid apps.).
+Helps tracking js logs via ui. It is useful if there is no browser console. (like PhoneGap, Cordova hybrid apps)
+
+Every log kept in a single line for user experience, just scroll to see long logs.
 
 **Prerequisites:** JQuery
 
 Usage: 
 ```js
 $(document).ready(function() {
-	log.init();
+	ilog.init();
 	
-	log.log('hello world');
-	log.log('im a cool log');
-	log.log('another long long long log which bla bla..');
+	ilog.log('hello world');
+	ilog.log('im a cool log');
+	ilog.log('this is another long log for scrolling..');
 });
 ```
