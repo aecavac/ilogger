@@ -1,7 +1,7 @@
 /**
  * ilogger: Simple web logger for developers and testers if there is no console.
  */
-var log = (function(){
+var ilog = (function(){
 	
 	var options = {
 			append: false

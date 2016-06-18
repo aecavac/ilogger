@@ -45,6 +45,7 @@
     overflow: auto;
 }
 .iLog {
+	font-family: sans-serif !important;
     background: white;
     font-size: 12px;
     width: 100%;
@@ -53,18 +54,18 @@
 }
 .iLogDate {
 	color: #888888;
-    font-weight: 600;
     padding-left: 2px;
     float: left;
     width: 145px;    
     height: 25px;
     line-height: 25px;
     border-right: 1px solid #eaeaea;
+	overflow: auto;
 }
 .iLogContent {
     float: left;
     overflow: auto;
-	width: 150px;
+	width: 154px;
     height: 25px;
     line-height: 25px;
 }
