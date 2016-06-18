@@ -3,11 +3,11 @@
 
 Helps tracking js logs via ui. It is useful if there is no browser console. (like PhoneGap, Cordova hybrid apps)
 
-Every log kept in a single line for user experience, just scroll to see long logs.
+Every log kept in a single line for user experience, just scroll to see overflowing logs.
 
 **Prerequisites:** JQuery
 
-Usage: *see example folder*
+**Usage:** *see example folder*
 
 ```html
 <link href="dist/ilogger.css" rel="stylesheet">
