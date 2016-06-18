@@ -1,0 +1,29 @@
+{
+  "name": "ilogger",
+  "version": "1.0.0",
+  "description": "Simple web logger for developers and testers if there is no console.",
+  "main": "ilogger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aecavac/ilogger.git"
+  },
+  "keywords": [
+    "web",
+    "logger"
+  ],
+  "author": "aecavac",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aecavac/ilogger/issues"
+  },
+  "homepage": "https://github.com/aecavac/ilogger#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3"
+  }
+}
