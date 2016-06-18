@@ -23,5 +23,6 @@ $(document).ready(function() {
 	ilog.log('this is another long log for scrolling..');
 });
 ```
+
 ![alt tag](https://raw.githubusercontent.com/aecavac/ilogger/master/example/scr/ilogger1.png)
 ![alt tag](https://raw.githubusercontent.com/aecavac/ilogger/master/example/scr/ilogger2.png)
