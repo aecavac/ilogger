@@ -1,7 +1,7 @@
 {
   "name": "ilogger",
   "version": "1.0.0",
-  "description": "Simple web logger for developers and testers if there is no console.",
+  "description": "Helper web logger for developers and testers if there is no console.",
   "main": "ilogger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
